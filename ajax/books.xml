@@ -1,0 +1,22 @@
+  
+    <books>
+        <book>
+            <title>Harry Potter</title>
+            <author>J.K. Rowling</author>
+            <year>1997</year>
+            <price>20.00</price>
+        </book>
+        <book>
+            <title>The Hobbit</title>
+            <author>J.R.R. Tolkien</author>
+            <year>1937</year>
+            <price>15.00</price>
+        </book>
+        <book>
+            <title>1984</title>
+            <author>George Orwell</author>
+            <year>1949</year>
+            <price>18.00</price>
+        </book>
+    </books>
+   
