@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies>
+    <Classical>
+        <Movie>
+            <Name>Mughal-e-Azam</Name>
+            <ReleaseYear>1960</ReleaseYear>
+        </Movie>
+        <Movie>
+            <Name>Pather Panchali</Name>
+            <ReleaseYear>1955</ReleaseYear>
+        </Movie>
+    </Classical>
+    
+    <Action>
+        <Movie>
+            <Name>Mad Max: Fury Road</Name>
+            <ReleaseYear>2015</ReleaseYear>
+        </Movie>
+        <Movie>
+            <Name>Die Hard</Name>
+            <ReleaseYear>1988</ReleaseYear>
+        </Movie>
+    </Action>
+    
+    <Horror>
+        <Movie>
+            <Name>The Conjuring</Name>
+            <ReleaseYear>2013</ReleaseYear>
+        </Movie>
+        <Movie>
+            <Name>IT</Name>
+            <ReleaseYear>2017</ReleaseYear>
+        </Movie>
+    </Horror>
+</Movies>
